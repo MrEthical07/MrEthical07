@@ -1,16 +1,56 @@
-## Hi there 👋
+# Ayush Gaikwad
 
-<!--
-**MrEthical07/MrEthical07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Systems Engineer focused on building scalable APIs, authentication systems, and distributed architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+- High-performance backend systems in Go  
+- Authentication & authorization infrastructure (JWT, RBAC, sessions)  
+- Scalable API architectures with caching, rate limiting, and observability  
+- Modular SaaS backends with policy enforcement  
+
+---
+
+## Key Projects
+
+### goAuth
+High-performance authentication engine with JWT, Redis sessions, refresh rotation, MFA, and RBAC  
+→ https://github.com/MrEthical07/goAuth  
+
+### SuperAPI
+Modular SaaS backend template with policy pipelines, caching, rate limiting, and observability  
+→ https://github.com/MrEthical07/superapi  
+
+### ProjectBook
+Design-thinking project management system with structured workflows and RBAC  
+→ https://github.com/MrEthical07/projectbook  
+
+---
+
+## Tech Stack
+
+**Languages:** Go, TypeScript, JavaScript, C++, SQL  
+**Backend:** REST APIs, WebSockets, Node.js  
+**Databases:** PostgreSQL, Redis, MongoDB  
+**Infra:** Docker, Kubernetes, Linux, Cloud (AWS, GCP)  
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MrEthical07&show_icons=true&theme=default)
+
+---
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MrEthical07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## Connect
+
+- GitHub: https://github.com/MrEthical07  
+- LinkedIn: https://linkedin.com/in/ayushgaikwad07  
+- Email: ayushgaikwaday@gmail.com  
