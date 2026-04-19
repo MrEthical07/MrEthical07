@@ -25,7 +25,8 @@ Modular SaaS backend template with policy pipelines, caching, rate limiting, and
 
 ### ProjectBook
 Design-thinking project management system with structured workflows and RBAC  
-→ https://github.com/MrEthical07/projectbook  
+→ https://github.com/MrEthical07/projectbook   
+→ https://github.com/MrEthical07/projectbook-backend
 
 ---
 
